@@ -1,0 +1,9 @@
+{
+  "appId": "com.fxthoomxstudio.app",
+  "appName": "fxthoomxstudio",
+  "webDir": "www",
+  "backgroundColor": "#FFFFFF",
+  "android": {
+    "allowMixedContent": false
+  }
+}
